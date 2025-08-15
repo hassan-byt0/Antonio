@@ -30,8 +30,8 @@ pip install airsim torch torch-geometric opencv-python numpy
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/hassan-byt0/Antonio
+cd Antonio
 ```
 
 ### Start the AirSim Environment
